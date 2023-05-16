@@ -1,6 +1,7 @@
 # Laravel 9 + Bootstrap Template + Auth
 Questa repo template contiene una versione modificata del pacchetto `laravel/laravel`. Tale versione differisce nei seguenti punti:
 
+- È stato installato Laravel / Breeze e rivista la parte di gestione login / registrazione / recupero password in ottica bootstrap / sass.
 - `PostCSS` è stato rimosso
 - È stato installato `SASS`
 - È stato installato `Bootstrap`
